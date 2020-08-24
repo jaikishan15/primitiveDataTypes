@@ -9,6 +9,8 @@ package dataTypes;
 
 public class TypesOfDatatypes {
     public static void main(String[] args) {
+    byte year =2;
+    int rollNo = 24;
 
     }
 }
